@@ -1,2 +1,3 @@
 # new project
-this project was local system.
+this is simon says game.
+
